@@ -1,6 +1,6 @@
 # Branding
 
-All our logo files
+All our logo files.
 
 Download them like this:
 
